@@ -6,3 +6,4 @@ class ArticlesController < ApplicationController
 		render plain: params[:article].inspect
 	end
 end
+#
